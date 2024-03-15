@@ -1,0 +1,31 @@
+.workbox {
+    width: 60%;
+    border: 3px black dotted;
+    margin: 0px auto;
+
+}
+
+.fimg {
+    float: left;
+    border: 3px solid red;
+}
+
+img {
+
+    box-sizing: border-box;
+    width: 600px;
+    padding: 10px 20px 0px 20px;
+    /* padding: 5px 10px 15px 20px; */
+    /* padding-left: 20px; */
+}
+
+figcaption {
+    padding-left: 30px;
+    font-size: 14px;
+    color: gray;
+}
+
+h2,
+p {
+    padding: 20px 35px 0px 35px;
+}
